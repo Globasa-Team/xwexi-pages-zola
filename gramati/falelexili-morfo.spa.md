@@ -1,6 +1,6 @@
 ---
 title: 'Formas verbales'
-visible: true
+weight: 70
 ---
 
 ## Omisión de partículas verbales

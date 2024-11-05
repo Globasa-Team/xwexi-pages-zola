@@ -1,6 +1,6 @@
 ---
 title: 'Números y meses del año'
-visible: true
+weight: 60
 ---
 
 ## Números cardinales

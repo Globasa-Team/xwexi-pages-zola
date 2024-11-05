@@ -1,6 +1,6 @@
 ---
 title: Pronouns
-visible: true
+weight: 40
 ---
 
 ## Subject/Object Pronouns

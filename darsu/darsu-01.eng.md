@@ -1,7 +1,11 @@
 +++
-title: 'Lesson 1'
-visible: true
-media_order: 'darsu_1_lexilista.mp3,darsu_1_misalli_jumle.mp3,darsu_01_doxoli_abyasa.mp3'
+title = 'Lesson 1'
+template = "docs/page.html"
+
+[extra]
+lead = "One page summary of how to start a new AdiDoks project."
+toc = true
+top = true
 +++
 
 Review [Alphabet and Pronunciation](/gramati/abece-ji-lafuzu) before starting the following lessons.

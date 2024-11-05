@@ -1,15 +1,18 @@
----
-title: 'Más recursos'
-published: false
----
++++
+title = 'More Resources'
+weight = 40
+template = "docs/section.html"
++++
 
 ## Vocabulary
 
-[Memrise Decks for Roots and Affixes](https://app.memrise.com/course/6118879/globasa-affixes-and-roots/)
+[Memrise Decks for Roots and Affixes](https://community-courses.memrise.com/community/course/6118879/globasa-affixes-and-roots/)
 
 ## Grammar
 
 [150 Canonical Sentences](https://www.reddit.com/r/Globasa/comments/rhdozj/150_canonical_sentences/)
+
+[Wikiversity: Globasa](https://en.wikiversity.org/wiki/Globasa)
 
 ## Text
 

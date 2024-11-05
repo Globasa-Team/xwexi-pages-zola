@@ -1,7 +1,11 @@
----
-title: 'Lecciones para principiantes'
-media_order: 'ENG_Darsulari tas Xoruyen_Mesi 02 2023.pdf,SPA_Darsulari tas Xoruyen_Mesi 02 2023.pdf'
----
++++
+title = 'Lecciones para principiantes'
+description = 'Learn Globasa, a newly constructed, truly international auxiliary language.'
+sort_by = "slug"
+weight = 10
+template = "docs/section.html"
+page_template = "docs/page.html"
++++
 
 Descargue el PDF de [_Lecciones de Globasa para principiantes_](SPA_Darsulari%20tas%20Xoruyen_Mesi%2008%202024.pdf).
 

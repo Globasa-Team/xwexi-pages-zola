@@ -1,6 +1,6 @@
 ---
 title: 'Clases de Palabras'
-visible: true
+weight: 130
 slug: clases-de-palabras
 ---
 

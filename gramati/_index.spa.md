@@ -1,7 +1,10 @@
----
-title: Gramática
-media_order: 'ENG_Kompleto Gramati fe Globasa_Mesi 11 2023.pdf,SPA_Kompleto Gramati fe Globasa_Mesi 11 2023.pdf'
----
++++
+title = "Gramática"
+weight = 20
+template = "docs/section.html"
+page_template = "docs/page.html"
+sort_by = "weight"
++++
 
 Descargue el PDF de [_Gramática completa del Globasa_](SPA_Kompleto%20Gramati%20fe%20Globasa_Mesi%2010%202024.pdf).
 

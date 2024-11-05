@@ -1,6 +1,9 @@
 ---
 title: 'Word Classes'
-visible: true
+weight: 130
+
+extra:
+  top: true
 ---
 
 ## Content Words

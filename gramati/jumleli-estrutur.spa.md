@@ -1,6 +1,6 @@
 ---
 title: 'Orden de palabras: Estructura de la oración'
-visible: true
+weight: 90
 ---
 
 ## SVO

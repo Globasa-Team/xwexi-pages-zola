@@ -1,7 +1,10 @@
----
-title: Grammar
-media_order: 'ENG_Kompleto Gramati fe Globasa_Mesi 10 2024.pdf,SPA_Kompleto Gramati fe Globasa_Mesi 10 2024.pdf'
----
++++
+title = 'Grammar'
+weight = 20
+template = "docs/section.html"
+page_template = "docs/page.html"
+sort_by = "weight"
++++
 
 Download the [Complete Globasa Grammar](ENG_Kompleto%20Gramati%20fe%20Globasa_Mesi%2010%202024.pdf) PDF.
 

@@ -1,6 +1,6 @@
 ---
 title: Abreviaturas
-published: true
+weight: 120
 ---
 
 Las abreviaturas en Globasa normalmente se pronuncian según su significado: por ejemplo, **fmk** se pronuncia /fe 'moj 'ka.so/ y no según las letras de la abreviatura, /'fe 'me 'ke/. Sin embargo, las abreviaturas más utilizadas, como **ff** y **jmt**, pueden pronunciarse según las letras de la abreviatura: /'fe 'fe/ y /'ʤe 'me 'te/ respectivamente.

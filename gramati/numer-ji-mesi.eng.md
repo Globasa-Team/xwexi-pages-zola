@@ -1,6 +1,6 @@
 ---
 title: 'Numbers and Months of the Year'
-visible: true
+weight: 60
 ---
 
 ## Cardinal Numbers

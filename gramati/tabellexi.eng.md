@@ -1,6 +1,6 @@
 ---
 title: Correlatives
-visible: true
+weight: 50
 ---
 
 ## Table of Correlatives

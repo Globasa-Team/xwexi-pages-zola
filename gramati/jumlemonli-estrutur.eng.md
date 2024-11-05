@@ -1,6 +1,6 @@
 ---
 title: 'Word Order: Phrase Structure'
-visible: true
+weight: 80
 ---
 
 ## Strict Word Order

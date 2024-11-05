@@ -1,6 +1,6 @@
 ---
 title: 'Content Words: Nouns, Verbs, Adjectives and Adverbs'
-visible: true
+weight: 20
 ---
 
 ## Nouns

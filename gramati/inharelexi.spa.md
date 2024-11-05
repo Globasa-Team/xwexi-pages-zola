@@ -1,6 +1,6 @@
 ---
 title: 'Palabras de contenido: Sustantivos, verbos, adjetivos y adverbios'
-visible: true
+weight: 20
 ---
 
 ## Sustantivos

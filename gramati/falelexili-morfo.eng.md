@@ -1,6 +1,6 @@
 ---
 title: 'Verb Forms'
-visible: true
+weight: 70
 ---
 
 ## Omission of Verb Particles

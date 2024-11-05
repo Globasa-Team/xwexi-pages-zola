@@ -1,6 +1,9 @@
----
-title: 'Frases y expresiones comunes'
----
++++
+title = 'Frases y expresiones comunes'
+weight = 30
+template = "docs/section.html"
+page_template = "docs/page.html"
++++
 
 ## Saludos
 

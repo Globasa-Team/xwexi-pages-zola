@@ -1,6 +1,6 @@
 ---
 title: 'Morfemas truncados'
-visible: true
+weight: 110
 ---
 
 Una característica especial de Globasa es el uso de _morfemas truncados_. Los morfemas truncados son palabras de función o afijos con una forma más corta y, por lo general, un significado más estrecho o más amplio que sus correspondientes palabras de origen. Los morfemas truncados no son en realidad palabras derivadas y, de hecho, es mejor considerarlos como palabras raíz completamente independientes aunque similares en forma a ciertas palabras de contenido por lo que se facilita el proceso de aprendizaje. Como resultado, los morfemas truncados no necesitan surgir de manera sistemática.

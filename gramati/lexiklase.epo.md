@@ -1,6 +1,6 @@
 ---
 title: Vortospecoj
-visible: true
+weight: 130
 slug: vortospecoj
 ---
 

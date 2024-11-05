@@ -1,6 +1,6 @@
 ---
 title: 'Formación de palabras'
-visible: true
+weight: 110
 ---
 
 ## Clase de palabra en palabras con afijos

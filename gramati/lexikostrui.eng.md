@@ -1,6 +1,6 @@
 ---
 title: 'Word Formation'
-visible: true
+weight: 110
 ---
 
 ## Word Class of Affixed Words

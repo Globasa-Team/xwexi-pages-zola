@@ -1,6 +1,6 @@
 ---
 title: Pronombres
-visible: true
+weight: 40
 ---
 
 ## Pronombres subjeto/objeto

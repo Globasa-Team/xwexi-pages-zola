@@ -2,6 +2,7 @@
 title: 'Lesson 2'
 visible: true
 media_order: 'darsu_2_lexilista.mp3,darsu_2_misalli_jumle.mp3,darsu_02_doxoli_abyasa.mp3'
+template: "docs/page.html"
 ---
 
 ## Word List

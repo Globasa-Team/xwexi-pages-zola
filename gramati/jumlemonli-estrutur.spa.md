@@ -1,6 +1,6 @@
 ---
 title: 'Orden de palabras: Estructura del sintagma'
-visible: true
+weight: 80
 ---
 
 ## Orden estricto de palabras

@@ -1,6 +1,6 @@
 ---
 title: 'Palabras de función: Conjunciones, preposiciones y adverbios de función'
-visible: true
+weight: 30
 ---
 
 Haz click [aquí](/gramati/pronamelexi) para ver Pronombres. Haz click [aquí](/gramati/tabellexi) para ver Correlativos. Haz click [aquí](/gramati/numer-ji-mesi) para ver Números.
