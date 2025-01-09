@@ -16,6 +16,6 @@ Globasa's design is primarily the work of a linguist, translator and expert in a
 
 ## Learn Globasa
 
-The best way to learn Globasa is to start with [Lesson 1](/darsu/01) of Globasa Lessons for Beginners.
+The best way to learn Globasa is to start with [Lesson 1] (/darsu/01) of Globasa Lessons for Beginners.
 
-If you prefer, you may dive into Globasa's complete grammar [here](/gramati).
+If you prefer, you may dive into Globasa's complete grammar [here] (/gramati).
