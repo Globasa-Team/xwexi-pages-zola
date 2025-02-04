@@ -1,9 +1,10 @@
 +++
 title = 'Sobre Globasa'
 description = 'Learn Globasa, a newly constructed, truly international auxiliary language.'
-sort_by = "weight"
-weight = 1
+sort_by = "slug"
+weight = 10
 template = "docs/section.html"
+page_template = "docs/page.html"
 +++
 
 Globasa es el producto de un elaborado experimento mental. Visualiza el resultado lingüístico de un escenario hipotético en el que 1000 personas de todo el mundo son seleccionadas al azar para habitar permanentemente en una isla. ¿Cómo sería el idioma de dicha comunidad dentro de tres generaciones? Ésta es la _visión guía_ de Globasa.

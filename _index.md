@@ -1,7 +1,8 @@
 +++
 title = 'Learn Globasa'
 description = 'Learn Globasa, a newly constructed, truly international auxiliary language.'
-sort_by = "weight"
-weight = 1
+sort_by = "slug"
+weight = 10
 template = "docs/section.html"
+page_template = "docs/page.html"
 +++

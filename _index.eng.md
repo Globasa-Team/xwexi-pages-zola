@@ -1,9 +1,10 @@
 +++
 title = 'Learn Globasa'
 description = 'Learn Globasa, a newly constructed, truly international auxiliary language.'
-sort_by = "weight"
-weight = 1
+sort_by = "slug"
+weight = 10
 template = "docs/section.html"
+page_template = "docs/page.html"
 +++
 
 Globasa is the product of an elaborate thought experiment. It envisions the linguistic outcome of a hypothetical scenario whereby 1,000 people from around the world are randomly selected to permanently inhabit an island. What would the community's language look like within three generations? This is Globasa's _guiding vision_.
