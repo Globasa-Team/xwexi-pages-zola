@@ -1,6 +1,8 @@
 ---
 title: 'Truncated Morphemes'
 weight: 110
+extra:
+    toc: true
 ---
 
 A special feature of Globasa is the use of _truncated morphemes_. Truncated morphemes are function words or affixes with a shorter form and typically a narrower or a broader meaning than their corresponding parent words. Truncated morphemes are not derived words per se, and in fact are best regarded as entirely independent root words that are similar in form to certain content words as a way to facilitate the process of learning them. As a result, truncated morphemes need not arise through a systematic pattern.

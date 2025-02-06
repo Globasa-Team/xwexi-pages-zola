@@ -1,6 +1,8 @@
 ---
 title: Pronouns
 weight: 40
+extra:
+    toc: true
 ---
 
 ## Subject/Object Pronouns

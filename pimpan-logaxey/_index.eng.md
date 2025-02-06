@@ -1,8 +1,13 @@
 +++
 title = 'Common Phrases and Expressions'
 weight = 30
-template = "docs/section.html"
+template = "docs/page.html"
 page_template = "docs/page.html"
+
+[extra]
+# lead = ''
+toc = true
+# top = true
 +++
 
 ## Greetings
@@ -17,7 +22,8 @@ page_template = "docs/page.html"
 <source src="/pimpan-logaxey/xanti.mp3" type="audio/mp3" />
  <p>Your user agent does not support the HTML5 Audio element.</p>
 </audio>
-**bonsoba**  - good morning  
+**bonsoba**  - good morning   
+<br/>
 <audio controls>
 <source src="/pimpan-logaxey/bonsoba.mp3" type="audio/mp3" />
  <p>Your user agent does not support the HTML5 Audio element.</p>

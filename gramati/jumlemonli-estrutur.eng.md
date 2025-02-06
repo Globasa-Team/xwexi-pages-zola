@@ -1,6 +1,8 @@
 ---
 title: 'Word Order: Phrase Structure'
 weight: 80
+extra:
+    toc: true
 ---
 
 ## Strict Word Order

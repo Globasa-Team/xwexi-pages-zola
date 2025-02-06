@@ -1,6 +1,8 @@
 ---
 title: '​Word Order: Sentence Structure'
 weight: 90
+extra:
+    toc: true
 ---
 
 ## SVO

@@ -1,6 +1,8 @@
 ---
 title: 'Content Words: Nouns, Verbs, Adjectives and Adverbs'
 weight: 20
+extra:
+    toc: true
 ---
 
 ## Nouns

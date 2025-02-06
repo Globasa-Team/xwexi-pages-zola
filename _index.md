@@ -6,3 +6,5 @@ weight = 10
 template = "docs/section.html"
 page_template = "docs/page.html"
 +++
+
+For testing go to the [English site](/eng/).

@@ -1,6 +1,8 @@
 ---
 title: Abbreviations
 weight: 120
+extra:
+    toc: true
 ---
 
 Abbreviations in Globasa are typically pronounced according to its meaning: **fmk**, for example, is pronounced /fe 'moj 'ka.so/ rather than according to the letters of the abbreviation, /'fe 'me 'ke/. However, the most commonly used abbreviations, such as **ff** and **jmt** may be pronounced according to the letters of the abbreviation for short: /'fe 'fe/ and /'ʤe 'me 'te/ respectively. 

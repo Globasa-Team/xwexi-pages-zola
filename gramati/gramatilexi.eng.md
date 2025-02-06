@@ -1,6 +1,8 @@
 ---
 title: 'Function Words: Conjunctions, Prepositions and Function Adverbs'
 weight: 30
+extra:
+    toc: true
 ---
 
 Click [here](/gramati/pronamelexi) to see Pronouns. Click [here](/gramati/tabellexi) to see Correlatives. Click [here](/gramati/numer-ji-mesi) to see Numbers.

@@ -1,6 +1,8 @@
 ---
 title: Correlatives
 weight: 50
+extra:
+    toc: true
 ---
 
 ## Table of Correlatives
