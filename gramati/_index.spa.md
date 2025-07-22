@@ -6,7 +6,7 @@ page_template = "docs/page.html"
 sort_by = "weight"
 +++
 
-Descargue el PDF de [_Gramática completa del Globasa_](SPA_Kompleto%20Gramati%20fe%20Globasa_Mesi%2010%202024.pdf).
+Descargue el PDF de [_Gramática completa del Globasa_](SPA_Kompleto%20Gramati%20fe%20Globasa_mesi%203%20nyan%202025.pdf).
 
 Gramática completa del Globasa:
 * [Alfabeto y pronunciación](abece-ji-lafuzu)

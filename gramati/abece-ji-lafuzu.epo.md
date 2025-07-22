@@ -243,7 +243,7 @@ La sekva literuma konvencio validas nur por radikaj vortoj kaj ne por derivitaj 
 En la sekvaj radikvortoj, _i_ kaj _u_ estas akcentitaj:
 
 **maux** (muso), prononcata _ma-<u>**u**</u>x_ [[ma.'uʃ]](maux.mp3)
-**daif** (malforta), prononcata _da-<u>**i**</u>f_ [[da.'if]](daif.mp3)
+**daifu** (malforta), prononcata _da-<u>**i**</u>-fu_ [da.'i.fu]
 
 En la sekvaj radikvortoj, fonotaksaj reguloj nur permesas _i_ kaj _u_:
 
