@@ -7,7 +7,7 @@ template = "docs/section.html"
 page_template = "docs/page.html"
 +++
 
-Descargue el PDF de [_Lecciones de Globasa para principiantes_](SPA_Darsulari%20tas%20Xoruyen_Mesi%2008%202024.pdf).
+Descargue el PDF de [_Lecciones de Globasa para principiantes_](SPA_Darsulari%20tas%20Xoruyen_mesi%202%20nyan%202025.pdf).
 
 Empiece con la [Lección&nbsp;1](01). En el menú lateral, verá una marca de verificación en cada lección que haya visitado para ayudarle a seguir su progreso.
 

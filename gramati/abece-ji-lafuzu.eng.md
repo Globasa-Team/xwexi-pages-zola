@@ -262,7 +262,7 @@ The following spelling convention applies only to root words and not to derived 
 In the following root words, _i_ and _u_ are stressed:
 
 **maux** (mouse), pronounced _ma-<u>**u**</u>x_ [[ma.'uʃ]](maux.mp3)  
-**daif** (weak), pronounced _da-<u>**i**</u>f_ [[da.'if]](daif.mp3)  
+**daifu** (weak), pronounced _da-<u>**i**</u>-fu_ [da.'i.fu]    
 
 In the following root words, phonotactic rules only allow _i_ and _u_: 
 
